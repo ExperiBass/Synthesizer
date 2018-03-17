@@ -1,2 +1,2 @@
 # Synthesizer
-the scematics are in the .fzz file.
+.fzz is opened by http://fritzing.org/home/
